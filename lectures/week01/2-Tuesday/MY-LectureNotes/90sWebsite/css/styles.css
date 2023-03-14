@@ -1,0 +1,14 @@
+H1 {
+    background-color: black;
+    color:greenyellow;
+}
+.dark {
+    background-color:black;
+    color:greenyellow;
+    padding: 10px;
+}
+.light{
+    background-color: white;
+    color:greenyellow;
+    padding: 10px;
+}
