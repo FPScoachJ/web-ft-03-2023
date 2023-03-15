@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+}
+div{
+    font-size: 50px;
+}
+
+.b1{
+    background-color: black;
+    color: white;
+    height: 10vh;
+    text-align: center;
+}
+
+.b2{
+    background-color: green;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    width: 30vw;
+    height: 80vh;
+    position: relative;
+}
+
+.b3{
+    background-color: red;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    width: 70vw;
+    height: 80vh;
+    position: absolute;
+}
+
+.b4{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    height: 10vh;
+}
