@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+}
+div{
+    font-size: 50px;
+}
+
+.b1{
+    background-color: black;
+    color: white;
+    height: 10vh;
+    text-align: center;
+}
+
+.b2{
+    background-color: green;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    width: 20vw;
+    height: 80vh;
+    margin: 0px;
+}
+
+.b3{
+    background-color: red;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    width: 60vw;
+    height: 80vh;
+    margin: 0px;
+}
+
+.b4{
+    background-color: yellow;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    width: 20vw;
+    height: 80vh;
+    margin: 0px;
+}
+.b5{
+
+        background-color: blue;
+        color: white;
+        text-align: center;
+        height: 10vh;
+
+}
+.container{
+    background-color: brown;
+    width: 100vw;
+    display: flex;
+}

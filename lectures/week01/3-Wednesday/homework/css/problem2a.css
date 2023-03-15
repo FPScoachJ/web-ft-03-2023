@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    display: flex;
 }
 div{
     font-size: 50px;
@@ -9,18 +10,16 @@ div{
     background-color: green;
     color: white;
     text-align: center;
-    display: inline-block;
     width: 20vw;
     height: 100vh;
-    position: relative;
+    display: inline;
 }
 
 .b3{
     background-color: red;
     color: white;
     text-align: center;
-    display: inline-block;
     width: 80vw;
-    height: 100vw;
-    position: absolute;
+    height: 100vh;
+    display: inline;
 }
