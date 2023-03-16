@@ -6,6 +6,7 @@
   margin: 4rem 0;
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 .event-card {
