@@ -1,0 +1,86 @@
+body{
+    height: 100vh;
+}
+.container-fluid{
+    padding: 0px;
+    height: 100vh;
+    background-color: yellow;
+}
+.rowHeader{
+    height: 5vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main1{
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main2{
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.main3{
+    height: 20vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+.main1text{
+    font-size: 80px;
+}
+.main2Text{
+    font-size: 80px;
+}
+.main3Text{
+    font-size: 20px;
+}
+.rowFooter{
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    font-size: 20px;
+}
+.contentContainer{
+    display: flex;
+    width: 100vw;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.navBar{
+    display: flex;
+}
+.headerLI{
+    display: flex;
+    list-style-type: none;
+    text-decoration: underline;
+    margin-right: 20px;
+}
+.ourCompany{
+    margin: 20px;
+    font-size: 20px;
+}
+.liMain2{
+    list-style-type: "- "
+}
+.vl{
+    border-left: 2px solid black;
+    height: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+.awesomePhoto{
+    width: 150px;
+}
