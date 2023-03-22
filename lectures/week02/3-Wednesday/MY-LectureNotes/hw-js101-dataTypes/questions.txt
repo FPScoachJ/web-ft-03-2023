@@ -1,0 +1,43 @@
+Question 1
+
+A process in which an expression is inserted or placed in the string
+
+Question 2
+
+`string where interpolation should be done enclosed in backticks: expression`
+`Employee name is ${name}`
+
+Question 3
+
+Interpolation adds variables to a string
+Concatenation adds strings together.
+
+Question 4
+
+Yes, once they are assigned value.
+
+Question 5
+
+Yes, you place an expression within a string.
+
+Question 6
+
+N/A - Neither serve a purpose in string interpolation.
+
+Question 7
+
+Yes
+
+Question 8
+
+Use a backslash.  eg. \n
+
+Question 9
+
+Only in versions using ES6 or later.
+
+Question 10
+
+You can break up your expression into distinct concatenated pieces:
+
+$answer = $var1 . func() . $var2;   # scalar only

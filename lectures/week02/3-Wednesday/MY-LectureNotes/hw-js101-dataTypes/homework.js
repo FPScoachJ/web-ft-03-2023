@@ -38,7 +38,7 @@ console.log(`The difference between ${numm1} and ${numm2} is ${difference}`);
 let num3 = 100;
 let num4 = 10;
 let quotient = num3/num4;
-console.log(`The quotion of ${num3} and ${num4} is ${quotient}`)
+console.log(`The quotient of ${num3} and ${num4} is ${quotient}`)
 
 // Problem 8
 let d = -234;
