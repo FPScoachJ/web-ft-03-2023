@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.."
+		},
+		{
+			"path": "../../../../../../dc-projects"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web-ft-03-2023"
+	}
+}
